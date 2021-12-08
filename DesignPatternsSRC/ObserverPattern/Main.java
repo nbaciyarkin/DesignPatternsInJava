@@ -2,7 +2,6 @@ package ObserverPattern;
 
 public class Main {
 
-    //Yarkın Gazibaba 18070006043
 
     public static void main(String[] args) {
 
