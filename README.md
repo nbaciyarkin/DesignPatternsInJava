@@ -1,4 +1,4 @@
-# DesingPatternsInJava
+# DesignPatternsInJava
 The project consists of some Design Patterns. To get meaningful outputs, you should run every concrete Test classes separately.
 
                                                           --PATTERNS--
