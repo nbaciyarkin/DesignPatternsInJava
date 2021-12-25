@@ -12,4 +12,6 @@ The project consists of some Design Patterns. To get meaningful outputs, you sho
                                                     - SingletonPattern
                                                     - StrategyPattern
                                                     - TemplateMethodPattern
+                                                    - Iterator Pattern
+                                                    - Composite Pattern
 
